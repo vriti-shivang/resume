@@ -1,0 +1,47 @@
+<hr style="height:2px;border-width:0;color:gray;background-color: pink">
+
+
+
+
+
+
+
+  i {
+    text-decoration: underline;
+    }
+  h1 {
+      color: blue;
+      text-decoration: underline;  
+    }
+
+  div {
+
+    background-color: cyan;
+    }
+  
+  ul {
+    list-style-type: circle;
+    font-size: xx-large;
+    text-decoration: brown;
+  }
+  .vl {
+    border-left: 6px solid green;
+    height: 500px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: 0;
+  }
+
+  .checked {
+    color: orange;
+  }
+  
+  
+  .p {
+    position: relative;;
+
+  }
+  a:hover {
+    background-color: whitesmoke;
+  }
